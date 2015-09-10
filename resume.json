@@ -1,0 +1,607 @@
+{
+  "basics": {
+    "name": "Nathan Hernandez",
+    "label": "Software Engineer",
+    "picture": "https://en.gravatar.com/userimage/58825022/f91a87874eb01448447a9ea4f3c948ac.jpg?size=200",
+    "email": "email@nathanph.com",
+    "phone": "(920) 827-6283",
+    "website": "http://nathanph.com",
+    "summary": "",
+    "location": {
+      "address": "731 Edinborough Drive",
+      "postalCode": "27703",
+      "city": "Durham",
+      "countryCode": "US",
+      "region": "North Carolina"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "nathanph",
+        "url": "https://github.com/nathanph"
+      },
+      {
+        "network": "Twitter",
+        "username": "nate_ph",
+        "url": "https://twitter.com/nate_ph"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nateph",
+        "url": "https://linkedin.com/in/nateph"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IBM jStart",
+      "position": "Co-op Software Developer",
+      "website": "http://ibm.com/jstart",
+      "startDate": "2015-05-18",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+          "",
+          ""
+      ],
+      "keywords": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Summer Ventures in Science and Mathematics",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2014-07-01",
+      "endDate": "2014-08-01",
+      "summary": "Aided in the instruction of secondary school juniors and seniors in STEM-related topics. Taught students electronic and mechanical skills such as soldering and drilling along with techniques for optimizing results.",
+      "highlights": [
+          "",
+          ""
+      ],
+      "keywords": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Appalachian State University",
+      "position": "Student Aid - Research Experience for Teachers Program",
+      "website": "",
+      "startDate": "2014-06-17",
+      "endDate": "2014-07-26",
+      "summary": "Trained secondary school education professionals in computer science technologies and related topics during a cooperative-learning summer venture funded by the National Science Foundation. Emphasis placed on data mining, analysis, visualization, and image processing.",
+      "highlights": [
+          "",
+          ""
+      ],
+      "keywords": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Appalachian State University",
+      "position": "Student Aid - Research Experience for Teachers Program",
+      "website": "",
+      "startDate": "2013-06-17",
+      "endDate": "2013-07-26",
+      "summary": "Trained secondary school education professionals in computer science technologies and related topics during a cooperative-learning summer venture funded by the National Science Foundation. Emphasis placed on data mining, analysis, visualization, and image processing.",
+      "highlights": [
+          "",
+          ""
+      ],
+      "keywords": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Appalachian State University",
+      "position": "Research Assistant",
+      "website": "http://cs.appstate.edu",
+      "startDate": "2013-12-01",
+      "endDate": "2015-05-11",
+      "summary": "Researched beehive data acquisition techniques using embedded systems with emphasis on real-time computing constraints. Research involved acquiring and transmitting data such as temperature, humidity, audio, and video to servers for analysis.",
+      "highlights": [
+          "",
+          ""
+      ],
+      "keywords": [
+        "embedded systems",
+        "real-time processing",
+        "databases",
+        "Raspberry Pi",
+        "Arduino"
+      ]
+    },
+    {
+      "company": "Beepdrive, LLC.",
+      "position": "Senior Developer and Founder",
+      "website": "http://beepdrive.com",
+      "startDate": "2012-09-01",
+      "endDate": "Present",
+      "summary": "Develop software for desktop and mobile devices to crowdsource designated drivers for local students. Product implemented using web and database technologies such as HTML5, CSS3, JQuery, JavaScript, PHP, and MySQL; deployed to mobile devices running Android or iOS software using open-source technologies: Apache Cordova and mgwt. Design layouts, interfaces, and advertisements using image & video editing softwares: Adobe Photoshop and Adobe After Effects. Manage business and marketing decisions such as legal affairs, profit distribution, and search engine + social media optimization.",
+      "highlights": [
+          "",
+          ""
+      ],
+      "keywords": [
+        "MySQL",
+        "PHP",
+        "Apache Cordova",
+        "JavaScript",
+        "jQuery",
+        "HTML5",
+        "CSS3",
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "company": "",
+      "position": "Garry's Mod Development",
+      "website": "",
+      "startDate": "2011-04-01",
+      "endDate": "2012-12-01",
+      "summary": "",
+      "highlights": [
+          "",
+          ""
+      ],
+      "keywords": [
+        "MySQL",
+        "PHP",
+        "Apache HTTP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Lua"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Appalachian State University",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2015-08-17",
+      "endDate": "Present",
+      "gpa": "4.00",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    },
+    {
+      "institution": "Appalachian State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-06-01",
+      "endDate": "2014-12-13",
+      "gpa": "3.34",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    },
+    {
+      "institution": "Coastal Carolina Community College",
+      "area": "",
+      "studyType": "Associate of Science",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "High Achievers S-STEM Scholarship",
+      "date": "2014-01-01",
+      "awarder": "Appalachian State University",
+      "summary": "Lead a team in researching Bitcoin and blockchain technologies."
+    },
+    {
+      "title": "High Achievers S-STEM Scholarship",
+      "date": "2013-01-01",
+      "awarder": "Appalachian State University",
+      "summary": "Lead a team in researching embedded systems technologies. Built a 6x6x6 RGB LED cube controlled by an Arduino and microcontrollers."
+    },
+    {
+      "title": "NSF Sponsored STEP Scholarship",
+      "date": "2012-01-01",
+      "awarder": "Appalachian State University",
+      "summary": ""
+    },
+    {
+      "title": "NOCTI Certified in Programming",
+      "date": "2010-01-01",
+      "awarder": "National Occupational Competency Testing Institute",
+      "summary": ""
+    },
+    {
+      "title": "Leadership Institute Alumnus",
+      "date": "2009-01-01",
+      "awarder": "Sturgeon City Institutes",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "presentations": [
+    {
+      "title": "Managing Bitcoin Keys",
+      "venue": "S-STEM Seminar",
+      "date": "2015-05-01",
+      "summary": "",
+      "keywords": [
+          "Bitcoin",
+          "cryptocurrencies",
+          "research",
+          "cryptography",
+          "BIP 32",
+          "BIP 38",
+          "BIP 39"
+      ],
+      "location": {
+        "shortName": "Appalachian State University",
+        "address": "",
+        "postalCode": "28607",
+        "city": "Boone",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    },
+    {
+      "title": "Audiovisual Monitoring System for Honeybee Hives",
+      "venue": "Celebration of Student Research and Creative Endeavors",
+      "date": "2015-04-23",
+      "summary": "",
+      "keywords": [
+          "Raspberry Pi",
+          "embedded systems",
+          "honeybees",
+          "Arduino"
+      ],
+      "location": {
+        "shortName": "Appalachian State University",
+        "address": "",
+        "postalCode": "28607",
+        "city": "Boone",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    },
+    {
+      "title": "Cryptocurrency Research",
+      "venue": "S-STEM Seminar",
+      "date": "2014-12-05",
+      "summary": "",
+      "keywords": [
+          "Bitcoin",
+          "cryptocurrencies",
+          "research",
+          "cryptography"
+      ],
+      "location": {
+        "shortName": "Appalachian State University",
+        "address": "",
+        "postalCode": "28607",
+        "city": "Boone",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    },
+    {
+      "title": "Remote Beehive Surveying",
+      "venue": "NC Undergraduate Research Creativity Symposium",
+      "date": "2014-11-24",
+      "summary": "",
+      "keywords": [
+          "Raspberry Pi",
+          "embedded systems",
+          "honeybees",
+          "Arduino"
+      ],
+      "location": {
+        "shortName": "North Carolina State University",
+        "address": "",
+        "postalCode": "",
+        "city": "Raleigh",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    },
+    {
+      "title": "Monitoring Honeybee Hives Using the Raspberry Pi",
+      "venue": "National Conference on Undergraduate Research",
+      "date": "2014-04-03",
+      "summary": "",
+      "keywords": [
+          "Raspberry Pi",
+          "embedded systems",
+          "honeybees",
+          "Arduino"
+      ],
+      "location": {
+        "shortName": "University of Kentucky",
+        "address": "",
+        "postalCode": "",
+        "city": "Lexington",
+        "countryCode": "US",
+        "region": "Kentucky"
+      }
+    },
+    {
+      "title": "Gadgets and Embedded Systems",
+      "venue": "AppHack",
+      "date": "2014-03-21",
+      "summary": "",
+      "keywords": [
+          "Raspberry Pi",
+          "embedded systems",
+          "Arduino"
+      ],
+      "location": {
+        "shortName": "Appalachian State University",
+        "address": "",
+        "postalCode": "28607",
+        "city": "Boone",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    },
+    {
+      "title": "Monitoring Honeybees Using Raspberry Pis",
+      "venue": "NC Undergraduate Research Creativity Symposium",
+      "date": "2013-11-16",
+      "summary": "",
+      "keywords": [
+          "Raspberry Pi",
+          "embedded systems",
+          "honeybees",
+          "Arduino"
+      ],
+      "location": {
+        "shortName": "University of North Carolina at Charlotte",
+        "address": "",
+        "postalCode": "",
+        "city": "Charlotte",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    },
+    {
+      "title": "Crowdsourcing Designated Drivers",
+      "venue": "Computer Science Industrial Advisory Board",
+      "date": "2013-11-08",
+      "summary": "",
+      "keywords": [
+          "Beepdrive, LLC."
+      ],
+      "location": {
+        "shortName": "Appalachian State University",
+        "address": "",
+        "postalCode": "28607",
+        "city": "Boone",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    },
+    {
+      "title": "Developing a Beehive Surveying System",
+      "venue": "North Carolina Honors Association Conference",
+      "date": "2013-10-05",
+      "summary": "",
+      "keywords": [
+          "Raspberry Pi",
+          "embedded systems",
+          "honeybees",
+          "Arduino"
+      ],
+      "location": {
+        "shortName": "Appalachian State University",
+        "address": "",
+        "postalCode": "28607",
+        "city": "Boone",
+        "countryCode": "US",
+        "region": "North Carolina"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "summary": "Broad experience with various web technologies. Developed web-based mobile and desktop applications such as Beepdrive — crowdsourcing designated drivers for local students. Built and manage personal and community websites and forums: Darkland Servers, BluShell Gaming, Nathan pH.",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "PHP",
+        "Node.js",
+        "Django",
+        "Wordpress",
+        "SMF",
+        "phpBB",
+        "vBulletin"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Proficient",
+      "summary": "Extensive use of the Java language to implement various projects and algorithms. Experience with fundamental Java data structures and their implementations. Experience with Java-based object-oriented design and design patterns.",
+      "keywords": [
+        "algorithms",
+        "data structures",
+        "design patterns"
+      ]
+    },
+    {
+      "name": "C",
+      "level": "Intermediate",
+      "summary": "Built Y86-simulator — uses pseudo-language based on x86 with RISC-like ISA. Developing embedded systems software for the ATMega328P (Arduino) to accomplish various goals: 6x6x6 RGB LED Cube animations, serial and sensor communication, and a cooperative executive kernel.",
+      "keywords": [
+        "Y86 simulator",
+        "Arduino",
+        "cooperative executive kernel"
+      ]
+    },
+    {
+      "name": "Assembly",
+      "level": "Intermediate",
+      "summary": "Experience reverse engineering, debugging, optimizing, and analyzing assembly code. Limited assembly development",
+      "keywords": [
+        "x86",
+        "Y86",
+        "debugging",
+        "optimizing",
+        "reverse engineering"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "summary": "Developed massively parallel Spark-based solutions to solve real-world problems for clients ranging from network providers to weather and climate analysts.",
+      "keywords": [
+        "Spark",
+        "machine learning",
+        "IPython notebooks"
+      ]
+    },
+    {
+      "name": "Other Languages",
+      "level": "Novice - Proficient",
+      "summary": "Amateur experience used mostly to quickly implement GUIs, design professional documents, analyze data, develop games, and automate tedious tasks.",
+      "keywords": [
+        "Visual Basic",
+        "LaTeX",
+        "MATLAB",
+        "Lua",
+        "BASIC",
+        "AutoHotkey"
+      ]
+    },
+    {
+      "name": "Revision Control Software and Tools",
+      "level": "Proficient",
+      "summary": "Experience with revision control software and their command line interfaces.",
+      "keywords": [
+        "git",
+        "SVN"
+      ]
+    },
+    {
+      "name": "Linux Distributions and Kernels",
+      "level": "Proficient",
+      "summary": "Experience with revision control software and their command line interfaces.",
+      "keywords": [
+        "Ubuntu",
+        "CentOS",
+        "Raspian Wheezy"
+      ]
+    },
+    {
+      "name": "Integrated Development Environments",
+      "level": "Proficient",
+      "summary": "Experience with various popular IDEs, their basic functions, debugging tools, and language support.",
+      "keywords": [
+        "NetBeans",
+        "PyCharm",
+        "Eclipse",
+        "Visual Studio"
+      ]
+    },
+    {
+      "name": "Databases and Management Software",
+      "level": "Intermediate",
+      "summary": "Experience designing, implementing, and managing relational databases.",
+      "keywords": [
+        "MySQL",
+        "SQLite",
+        "phpMyAdmin",
+        "MySQL Workbench"
+      ]
+    },
+    {
+      "name": "Windows Operating Systems",
+      "level": "Proficient",
+      "summary": "Extensive administration, development, and troubleshooting experience under Windows and Windows Server environments. Strong understanding of the Windows operating system and it's various capabilities.",
+      "keywords": [
+        "XP",
+        "Vista",
+        "7",
+        "8",
+        "10",
+        "Server 2003",
+        "Server 2008",
+        "Server 2012"
+      ]
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Software",
+      "keywords": [
+        "cryptography",
+        "blockchain technologies",
+        "Bitcoin",
+        "web technologies",
+        "procedurally generated content",
+        "software exploitation",
+        "reverse engineering",
+        "disassembly"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "keywords": [
+        "embedded systems",
+        "real-time processing",
+        "systems architecture and design"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Chris Hegre",
+      "reference": "One of the best developers I've ever met."
+    }
+  ]
+}
